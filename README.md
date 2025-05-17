@@ -6,7 +6,7 @@
 
 ## 🌟 Recursos Principais
 
-- 🧠 Geração de conteúdo criativo com Gemini 2.0 Flash e outros modelos Gemini
+- 🧠 Geração de conteúdo criativo com Gemini 2.0 Flash
 - 📂 Integração direta com Google Docs no seu Drive
 - 🏰 Criação de continentes, culturas, personagens, tecnologias e muito mais
 - 📚 Organização automática em formato de compêndio/enciclopédia

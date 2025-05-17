@@ -74,9 +74,11 @@ mindforge.py
     ├── Prompt engineering
     └── Processamento de respostas
 ```
-#📜 Licença
-MIT License
-Copyright (c) 2025 [Edson Oliveira da Silva]
+## 📜 Licença
+
+Este projeto está licenciado sob a Licença MIT.  
+Você pode usar, modificar e distribuir este software livremente, desde que mantenha os devidos créditos.
+
 #
 Desenvolvido com ❤️ durante a Imersão IA Alura + Google DeepMind<br>
 *"Da imaginação à realidade, um mundo de cada vez"*

@@ -45,18 +45,14 @@
 
 <img src="https://github.com/edsonos/mindforge/blob/main/assets/print1.png" />
 
-<img src="https://github.com/edsonos/mindforge/blob/main/assets/print2.png" />
-
 <img src="https://github.com/edsonos/mindforge/blob/main/assets/print3.png" />
 
 <img src="https://github.com/edsonos/mindforge/blob/main/assets/print4.png" />
 
 *Capturas de tela mostrando a interface interativa do MindForge no Colab*
 
-
-<div align=center>
-    <img src="https://github.com/edsonos/mindforge/blob/main/assets/print5.png" />
-    <hr>
+##[Exemplo de documento criado com o MindForge](https://docs.google.com/document/d/1-SbdoTOXoeiLAUIJzQZc4w1mH9xwld6176LMk4KfH48/edit?usp=sharing)
+<img src="https://github.com/edsonos/mindforge/blob/main/assets/print5.png" />
 
 ![Exemplo de documento criado com o MindForge](https://docs.google.com/document/d/1-SbdoTOXoeiLAUIJzQZc4w1mH9xwld6176LMk4KfH48/edit?usp=sharing)
 </div>

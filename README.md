@@ -1,4 +1,4 @@
-# 🐉 MindForge - Seu Assistente Criativo para Construção de Mundos
+# 🐉 MindForge - Seu Assistente Criativo para Construção de Mundos 🐦‍🔥
 
 ![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
 *Imagem ilustrativa - substitua por uma capa atraente do seu projeto*

@@ -40,6 +40,7 @@
 ![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
 ![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
 ![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
+![Exemplo de documento criado com o MindForge](https://docs.google.com/document/d/1-SbdoTOXoeiLAUIJzQZc4w1mH9xwld6176LMk4KfH48/edit?usp=sharing) 
 ![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
 
 ## 📂 Estrutura do Projeto

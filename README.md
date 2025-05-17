@@ -12,6 +12,14 @@
 - 📚 Organização automática em formato de compêndio/enciclopédia
 - 🔄 Edição colaborativa e expansão contínua do seu mundo
 
+## 🛠️ Tecnologias Utilizadas
+
+- Google Gemini API
+- Google Drive API
+- Google Docs API
+- IPython Widgets (para interface interativa)
+- Google Colab (para execução)
+
 ## 🚀 Como Usar
 
 ### Pré-requisitos
@@ -25,14 +33,6 @@
 3. **Crie ou selecione** um compêndio existente
 4. **Descreva sua ideia** ou peça sugestões ao assistente
 5. **Salve automaticamente** no seu Google Drive
-
-## 🛠️ Tecnologias Utilizadas
-
-- Google Gemini API
-- Google Drive API
-- Google Docs API
-- IPython Widgets (para interface interativa)
-- Google Colab (para execução)
 
 ### Exemplos de uso
 

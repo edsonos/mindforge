@@ -74,6 +74,9 @@ mindforge.py
     ├── Prompt engineering
     └── Processamento de respostas
 ```
+##📜 Licença
+MIT License
+Copyright (c) 2025 [Edson Oliveira da Silva]
 #
 Desenvolvido com ❤️ durante a Imersão IA Alura + Google DeepMind<br>
 *"Da imaginação à realidade, um mundo de cada vez"*

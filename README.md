@@ -1,13 +1,12 @@
-# 🐉 MindForge - Seu Assistente Criativo para Construção de Mundos 🐦‍🔥
-
 ![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
-*Imagem ilustrativa - substitua por uma capa atraente do seu projeto*
+
+# 🐉 MindForge - Seu Assistente Criativo para Construção de Mundos 🐦‍🔥
 
 **MindForge** é um assistente interativo que utiliza IA generativa para ajudar criadores, escritores e entusiastas a desenvolverem mundos de ficção ricos e detalhados diretamente no Google Drive.
 
 ## 🌟 Recursos Principais
 
-- 🧠 Geração de conteúdo criativo com Gemini 1.5 Flash
+- 🧠 Geração de conteúdo criativo com Gemini 2.0 Flash e outros modelos Gemini
 - 📂 Integração direta com Google Docs no seu Drive
 - 🏰 Criação de continentes, culturas, personagens, tecnologias e muito mais
 - 📚 Organização automática em formato de compêndio/enciclopédia
@@ -27,9 +26,6 @@
 4. **Descreva sua ideia** ou peça sugestões ao assistente
 5. **Salve automaticamente** no seu Google Drive
 
-![Demonstração da Interface](https://via.placeholder.com/800x400.png?text=Interface+interativa+do+MindForge) 
-*Captura de tela da interface interativa*
-
 ## 🛠️ Tecnologias Utilizadas
 
 - Google Gemini API
@@ -37,6 +33,14 @@
 - Google Docs API
 - IPython Widgets (para interface interativa)
 - Google Colab (para execução)
+
+### Exemplos de uso
+
+![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
+![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
+![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
+![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
+![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
 
 ## 📂 Estrutura do Projeto
 

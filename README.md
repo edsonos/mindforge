@@ -1,6 +1,6 @@
 ![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
 
-# 🐉 MindForge - Seu Assistente Criativo para Construção de Mundos 🐦‍🔥
+# 🐉 MindForge - Assistente Criativo para Construção de Mundos 🐦‍🔥
 
 **MindForge** é um assistente interativo que utiliza IA generativa para ajudar criadores, escritores e entusiastas a desenvolverem mundos de ficção ricos e detalhados diretamente no Google Drive.
 

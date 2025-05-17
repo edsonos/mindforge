@@ -1,4 +1,4 @@
-![Capa](https://github.com/user-attachments/assets/4faeb521-7280-4d28-a4e6-5384c9e2d706)<div align=center>
+<div align=center>
     <img src="https://github.com/edsonos/mindforge/blob/main/assets/Capa.png" width="20%" height="20%" />
     <hr>
 </div>

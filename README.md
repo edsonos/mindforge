@@ -74,7 +74,7 @@ mindforge.py
     ├── Prompt engineering
     └── Processamento de respostas
 ```
-##📜 Licença
+#📜 Licença
 MIT License
 Copyright (c) 2025 [Edson Oliveira da Silva]
 #

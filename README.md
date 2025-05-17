@@ -37,7 +37,7 @@ Seja para criar do zero ou expandir uma ideia existente, o MindForge guia você 
 - Chave de API do Google AI Studio
 
 ### Passo a Passo
-1. **Execute o notebook** no [Google Colab](https://colab.research.google.com/drive/10JNBIBgtV2Q6D1R-CM6aIPQ5DW1xsz9w?usp=sharing) e copie o arquivo para o seu Drive (ou acesse-o por este repositório)
+1. **Acesse** o [Google Colab](https://colab.research.google.com/drive/10JNBIBgtV2Q6D1R-CM6aIPQ5DW1xsz9w?usp=sharing) e copie o arquivo para o seu Drive (ou acesse-o por este repositório)
 2. **Autentique-se** com sua conta Google quando solicitado
 3. **Crie um novo compêndio** ou selecione um existente
 4. **Descreva sua ideia** ou clique em "Gerar" para uma sugestão surpresa

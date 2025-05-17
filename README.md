@@ -17,11 +17,13 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Google Gemini API
-- Google Drive API
-- Google Docs API
-- IPython Widgets (para interface interativa)
-- Google Colab (para execução)
+| Tecnologia | Função no Projeto |
+|------------|-------------------|
+| Google Gemini API | Geração de conteúdo criativo |
+| Google Drive API | Gerenciamento de documentos |
+| Google Docs API | Edição e formatação de conteúdo |
+| IPython Widgets | Interface interativa no Colab |
+| Python 3.10+ | Lógica de programação |
 
 ## 🚀 Como Usar
 
@@ -31,19 +33,38 @@
 - Chave de API do Google AI Studio
 
 ### Passo a Passo
-1. **Execute o notebook** no Google Colab
-2. **Autentique-se** com sua conta Google
-3. **Crie ou selecione** um compêndio existente
-4. **Descreva sua ideia** ou peça sugestões ao assistente
-5. **Salve automaticamente** no seu Google Drive
+1. **Execute o notebook** no [Google Colab](https://colab.research.google.com/drive/10JNBIBgtV2Q6D1R-CM6aIPQ5DW1xsz9w?usp=sharing) e copie o arquivo para o seu Drive
+2. **Autentique-se** com sua conta Google quando solicitado
+3. **Crie um novo compêndio** ou selecione um existente
+4. **Descreva sua ideia** ou clique em "Gerar" para uma sugestão surpresa
+5. **Revise e ajuste** o conteúdo gerado
+6. **Salve automaticamente** no seu Google Drive
 
 ### Exemplos de uso
 
-![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
-![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
-![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
-![Exemplo de documento criado com o MindForge](https://docs.google.com/document/d/1-SbdoTOXoeiLAUIJzQZc4w1mH9xwld6176LMk4KfH48/edit?usp=sharing) 
-![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
+<div align=center>
+    <img src="https://github.com/edsonos/mindforge/blob/main/assets/print1.png" />
+    <hr>
+</div>
+<div align=center>
+    <img src="https://github.com/edsonos/mindforge/blob/main/assets/print2.png" />
+    <hr>
+</div>
+<div align=center>
+    <img src="https://github.com/edsonos/mindforge/blob/main/assets/print3.png" />
+    <hr>
+</div>
+<div align=center>
+    <img src="https://github.com/edsonos/mindforge/blob/main/assets/print4.png" />
+    <hr>
+*Capturas de tela mostrando a interface interativa do MindForge no Colab*
+
+![Exemplo de documento criado com o MindForge](https://docs.google.com/document/d/1-SbdoTOXoeiLAUIJzQZc4w1mH9xwld6176LMk4KfH48/edit?usp=sharing)
+</div>
+<div align=center>
+    <img src="https://github.com/edsonos/mindforge/blob/main/assets/print5.png" />
+    <hr>
+</div>
 
 ## 📂 Estrutura do Projeto
 

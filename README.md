@@ -6,9 +6,9 @@
 # 🐉 MindForge - Assistente Criativo para Construção de Mundos 🐦‍🔥
 
 **MindForge** é a forja onde ideias ganham forma.<br>
-Um assistente interativo com **IA generativa** que transforma rascunhos, visões ou fragmentos criativos em mundos completos, vívidos e coerentes — tudo isso integrado ao seu **Google Drive**.
+**MindForge** é um assistente interativo **movido por IA**, projetado para impulsionar a criatividade de **escritores**, **mestres de RPG**, **designers narrativos** e **criadores de mundos**, não importando o gênero. Com ele, você pode construir universos inteiros — com civilizações, raças, culturas, tecnologias ou magias — **diretamente no seu Google Drive**, de forma rápida, organizada e contínua.
 
-Ideal para **escritores, mestres de RPG, designers narrativos e criadores de ficção** que desejam explorar novos universos com profundidade e consistência.
+Seja para criar do zero ou expandir uma ideia existente, o MindForge guia você com sugestões inteligentes, estrutura narrativa e geração de conteúdo em estilo de compêndio, pronto para ser editado ou publicado.
 
 ## 🌟 Recursos Principais
 

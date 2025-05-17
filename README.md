@@ -50,7 +50,12 @@
 *Capturas de tela mostrando a interface interativa do MindForge no Colab*
 
 [Exemplo de documento criado com o MindForge](https://docs.google.com/document/d/1-SbdoTOXoeiLAUIJzQZc4w1mH9xwld6176LMk4KfH48/edit?usp=sharing)
-<img src="https://github.com/edsonos/mindforge/blob/main/assets/print5.png" />
+<div align="left">
+    <a href="https://docs.google.com/document/d/1-SbdoTOXoeiLAUIJzQZc4w1mH9xwld6176LMk4KfH48/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/edsonos/mindforge/blob/main/assets/print5.png" />
+    </a>
+    <hr>
+</div>
 
 ## 📂 Estrutura do Projeto
 

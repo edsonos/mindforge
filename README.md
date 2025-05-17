@@ -1,4 +1,7 @@
-!([[https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA](https://github.com/edsonos/mindforge/blob/main/assets/Capa.png)]
+<div align=center>
+    <img src="https://github.com/eduardoboca/YouTubeClipper/blob/main/assets/YouTubeClipper.png" />
+    <hr>
+</div>
 
 # 🐉 MindForge - Assistente Criativo para Construção de Mundos 🐦‍🔥
 

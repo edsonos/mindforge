@@ -75,5 +75,5 @@ mindforge.py
     └── Processamento de respostas
 ```
 #
-Desenvolvido com ❤️ durante a Imersão IA Alura + Google DeepMind
-"Da imaginação à realidade, um mundo de cada vez"
+Desenvolvido com ❤️ durante a Imersão IA Alura + Google DeepMind<br>
+*"Da imaginação à realidade, um mundo de cada vez"*

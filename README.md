@@ -73,3 +73,7 @@ mindforge.py
 └── Geração de Conteúdo Criativo
     ├── Prompt engineering
     └── Processamento de respostas
+```
+#
+Desenvolvido com ❤️ durante a Imersão IA Alura + Google DeepMind
+"Da imaginação à realidade, um mundo de cada vez"

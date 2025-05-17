@@ -53,6 +53,8 @@ Seja para criar do zero ou expandir uma ideia existente, o MindForge guia você 
 
 *Capturas de tela mostrando a interface interativa do MindForge no Colab*
 
+Veja mais prints na pasta [assets](https://github.com/edsonos/mindforge/tree/main/assets).
+
 [Exemplo de documento criado com o MindForge](https://docs.google.com/document/d/1-SbdoTOXoeiLAUIJzQZc4w1mH9xwld6176LMk4KfH48/edit?usp=sharing)
 <div align="left">
     <a href="https://docs.google.com/document/d/1-SbdoTOXoeiLAUIJzQZc4w1mH9xwld6176LMk4KfH48/edit?usp=sharing" target="_blank" rel="noopener noreferrer">

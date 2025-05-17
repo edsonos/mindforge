@@ -1,7 +1,4 @@
-<div align=center>
-    <img src="https://github.com/edsonos/mindforge/blob/main/assets/Capa.png" width="20%" height="20%" />
-    <hr>
-</div>
+!([https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA](https://github.com/edsonos/mindforge/blob/main/assets/Capa.png)
 
 # 🐉 MindForge - Assistente Criativo para Construção de Mundos 🐦‍🔥
 
@@ -39,7 +36,6 @@
 
 ### Exemplos de uso
 
-![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
 ![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
 ![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 
 ![Capa do Projeto](https://via.placeholder.com/1200x600.png?text=MindForge+-+Crie+mundos+incr%C3%ADveis+com+IA) 

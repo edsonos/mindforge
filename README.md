@@ -3,7 +3,7 @@
     <hr>
 </div>
 
-# 🐉 MindForge - Assistente Criativo para Construção de Mundos 🐦‍🔥
+# 🐉 MindForge - Assistente Interativo para Construção de Mundos 🐦‍🔥
 
 **MindForge** é a forja onde ideias ganham forma.<br>
 

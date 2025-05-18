@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://github.com/edsonos/mindforge/blob/main/assets/Capa.png" />
+    <img src="https://github.com/edsonos/mindforge/blob/main/assets/MindForge.png" />
     <hr>
 </div>
 
